@@ -24,7 +24,7 @@ li, a, button,p,h1,h3{
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
     font-size: 16px;
-    color: bisque;
+    color: #141413;
     text-decoration: none;
     
 }
@@ -38,14 +38,14 @@ li, a, button,p,h1,h3{
 header{
    position: fixed;
    top: 1;
-   width: 70%;
+   width: 85%;
    height: 100px;
    background-color: #000303;
    display: flex;
    justify-content: flex-end;
    align-items: center;
    box-shadow: 2px 2px 10px black;
-   z-index: 1;
+   z-index: 99999;
    border-radius: 70px;
 }
 #home{
@@ -69,9 +69,15 @@ header:hover{
     margin: 30px;
     align-items: center;
 }
+.navlinks li a{
+    color:wheat ;
+}
+.sidebar li a{
+    color:wheat ;
+}
 .navlinks li a:hover{
     color: #00abf0;
-    text-shadow: 1px 1px 5px black;
+    text-shadow: 1px 1px 5px white;
 }
 
 button{

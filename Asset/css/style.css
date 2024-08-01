@@ -165,8 +165,8 @@
   }
   .btn-primary,
   .btn-primary:active {
-    background-color: #29bf12 !important;
-    border-color: #29bf12 !important;
+    background-color: #0a4161 !important;
+    border-color: #16500d !important;
     color: #ffffff !important;
     box-shadow: none;
   }
@@ -1457,7 +1457,7 @@
     }
   }
   .cid-ujOoM8d2bs .item-head {
-    background: #29bf12;
+    background: #0a4161;
     padding: 2.25rem;
   }
   @media (min-width: 992px) and (max-width: 1200px) {
@@ -1572,7 +1572,7 @@
     top: 0;
   }
   .cid-ujOoM8dMvI .card-wrapper {
-    background: #ff9914;
+    background: #bdbfb9;
   }
   @media (max-width: 767px) {
     .cid-ujOoM8dMvI .card-wrapper {
